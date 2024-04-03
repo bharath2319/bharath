@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/bharath/static/css/main.f855e6bc.css",
-    "main.js": "/bharath/static/js/main.765745bb.js",
-    "static/js/787.70b6c88f.chunk.js": "/bharath/static/js/787.70b6c88f.chunk.js",
-    "static/media/profileimage.jpg": "/bharath/static/media/profileimage.195dad9bbf167d47aaa6.jpg",
-    "index.html": "/bharath/index.html",
-    "main.f855e6bc.css.map": "/bharath/static/css/main.f855e6bc.css.map",
-    "main.765745bb.js.map": "/bharath/static/js/main.765745bb.js.map",
-    "787.70b6c88f.chunk.js.map": "/bharath/static/js/787.70b6c88f.chunk.js.map"
+    "main.css": "/himabindhu_mern/static/css/main.731720d4.css",
+    "main.js": "/himabindhu_mern/static/js/main.3ad0f3a7.js",
+    "static/js/453.45de5bbc.chunk.js": "/himabindhu_mern/static/js/453.45de5bbc.chunk.js",
+    "index.html": "/himabindhu_mern/index.html",
+    "main.731720d4.css.map": "/himabindhu_mern/static/css/main.731720d4.css.map",
+    "main.3ad0f3a7.js.map": "/himabindhu_mern/static/js/main.3ad0f3a7.js.map",
+    "453.45de5bbc.chunk.js.map": "/himabindhu_mern/static/js/453.45de5bbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.765745bb.js"
+    "static/css/main.731720d4.css",
+    "static/js/main.3ad0f3a7.js"
   ]
 }
